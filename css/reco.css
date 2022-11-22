@@ -1,0 +1,38 @@
+/* table.people-reco{
+    box-sizing: border-box;
+    display: flex;    
+}
+
+tr.man{
+    flex: 1;
+}
+
+tr.man-few-words{
+    flex: 4;
+} */
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+}
+
+th, td, tr{
+    border: 1px solid lightblue;
+    padding: 10px;
+}
+
+table tr:nth-child(odd) td{
+    background-color: rgb(255, 255, 255);
+}
+
+.meaia-col{
+    height: 200px;
+    width: 350px;
+}
+
+@media screen and (max-width: 900px) {
+
+    
+}
+
