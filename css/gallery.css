@@ -186,6 +186,10 @@ div figure.rote:hover{
     .gallery__item--13 {grid-column: 1 / span 4; grid-row: 9 / span 4; }    
     .gallery__item--14{grid-column: 1 / span 4; grid-row: 13 / span 4; } 
     .gallery__item--15{ display: none;} 
+
+    .link{
+      display: none;
+    }
 }
  
 
@@ -208,4 +212,9 @@ div figure.rote:hover{
     .gallery__item--13 {grid-column: 1 / span 3; grid-row: 4/ span 3; }    
     .gallery__item--14{grid-column: 4 / span 3; grid-row: 4 / span 3; } 
     .gallery__item--15{ display: none;} 
+
+    
+    .link{
+      display: none;
+    }
  } 
